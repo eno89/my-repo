@@ -5,9 +5,9 @@ jobs:                             # ジョブの定義
     runs-on: ubuntu-latest        # ランナー（Ubuntuで実行）
     steps:                        # ステップの定義
       - run: |
-        git log -1
-        tree -a .
-        echo "Hello, world"  # シェルコマンドの実行
+          git log -1
+          tree -a .
+          echo "Hello, world"  # シェルコマンドの実行
       - uses: actions/checkout@v4 # アクションの呼び出し
         with:
           ref: main
