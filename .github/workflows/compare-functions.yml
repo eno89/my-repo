@@ -1,4 +1,4 @@
-name: Compare functions
+name: 3l8 Compare functions
 on: push
 jobs:
   compare:

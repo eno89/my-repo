@@ -1,4 +1,4 @@
-name: Hash functions
+name: 3.11 Hash functions
 on: push
 jobs:
   hash:

@@ -1,4 +1,4 @@
-name: Status check functions
+name: 3.13 Status check functions
 on: push
 jobs:
   fail:

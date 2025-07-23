@@ -1,4 +1,4 @@
-name: Comment
+name: 3.20 Comment
 on: pull_request
 jobs:
   comment:

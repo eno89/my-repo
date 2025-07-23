@@ -1,4 +1,4 @@
-name: GITHUB_OUTPUT
+name: 3.18 GITHUB_OUTPUT
 on: push
 jobs:
   share:

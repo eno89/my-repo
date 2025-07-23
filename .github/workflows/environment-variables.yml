@@ -1,4 +1,4 @@
-name: Environment variables
+name: 3.2 Environment variables
 on: push
 jobs:
   run:

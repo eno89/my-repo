@@ -1,4 +1,4 @@
-name: Naming
+name: 3.15 Naming
 on: push
 jobs:
   print:

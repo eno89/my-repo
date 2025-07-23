@@ -1,4 +1,4 @@
-name: Literals
+name: 3.7 Literals
 on: push
 jobs:
   print:
