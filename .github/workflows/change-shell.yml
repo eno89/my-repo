@@ -1,4 +1,4 @@
-name: Change shell
+name: 4.8 Change shell
 on: push
 jobs:
   print:
