@@ -1,4 +1,4 @@
-name: 5.7 Parallel jobs
+name: 05.07 Parallel jobs
 on: push
 jobs: # jobsキーへ複数のジョブを定義すれば、並列に実行される
   first:

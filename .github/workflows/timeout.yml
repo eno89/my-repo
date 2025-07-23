@@ -1,4 +1,4 @@
-name: 4.7 Timeout
+name: 04.07 Timeout
 on: push
 jobs:
   sleep:

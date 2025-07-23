@@ -1,4 +1,4 @@
-name: 5.10 Matrix
+name: 05.10 Matrix
 on: push
 jobs:
   print:

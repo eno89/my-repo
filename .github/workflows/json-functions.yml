@@ -1,4 +1,4 @@
-name: 3.10 JSON functions
+name: 03.10 JSON functions
 on: push
 jobs:
   dump:

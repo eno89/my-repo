@@ -1,4 +1,4 @@
-name: 3l8 Compare functions
+name: 03.08 Compare functions
 on: push
 jobs:
   compare:

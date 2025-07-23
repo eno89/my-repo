@@ -1,4 +1,4 @@
-name: 5.8 Sequential jobs
+name: 05.08 Sequential jobs
 on: push
 jobs:
   first:                   # 依存ジョブがないので最初に実行される

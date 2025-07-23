@@ -1,4 +1,4 @@
-name: 3.4 Intermediate environment variables
+name: 03.04 Intermediate environment variables
 on: push
 jobs:
   print:

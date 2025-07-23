@@ -1,4 +1,4 @@
-name: 3.12 Conditions
+name: 03.12 Conditions
 on: push
 jobs:
   skip-or-run:

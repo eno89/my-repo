@@ -1,4 +1,4 @@
-name: 3.14 Conditions workflow
+name: 03.14 Conditions workflow
 on: push
 jobs:
   skip-or-run:

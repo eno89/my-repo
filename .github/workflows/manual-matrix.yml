@@ -1,4 +1,4 @@
-name: 5.12 Manual matrix
+name: 05.12 Manual matrix
 on: push
 jobs:
   print:

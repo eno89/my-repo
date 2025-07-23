@@ -1,4 +1,4 @@
-name: 5.9 Share job data
+name: 05.09 Share job data
 on: push
 jobs:
   before:

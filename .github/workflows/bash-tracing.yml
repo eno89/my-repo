@@ -1,4 +1,4 @@
-name: 5.2 Bash tracing
+name: 05.02 Bash tracing
 on: push
 jobs:
   log:

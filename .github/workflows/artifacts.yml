@@ -1,4 +1,4 @@
-name: 5.15 Artifacts
+name: 05.15 Artifacts
 on: push
 jobs:
   upload:

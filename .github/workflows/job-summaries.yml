@@ -1,4 +1,4 @@
-name: 5.6 Job summaries
+name: 05.06 Job summaries
 on: push
 jobs:
   log:

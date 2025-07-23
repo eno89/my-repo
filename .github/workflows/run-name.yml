@@ -1,4 +1,4 @@
-name: 3.16 Run name
+name: 03.16 Run name
 run-name: Run by @${{ github.actor }} # ワークフロー実行名の指定
 on: push
 jobs:

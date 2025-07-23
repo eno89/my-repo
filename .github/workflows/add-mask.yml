@@ -1,4 +1,4 @@
-name: 5.4 Add mask
+name: 05.04 Add mask
 on: push
 jobs:
   log:

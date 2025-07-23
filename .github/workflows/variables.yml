@@ -1,4 +1,4 @@
-name: 3.5 Variables
+name: 03.05 Variables
 on: push
 jobs:
   print:

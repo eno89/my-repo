@@ -1,4 +1,4 @@
-name: 3.9 Generate functions
+name: 03.09 Generate functions
 on: push
 jobs:
   generate:

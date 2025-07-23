@@ -1,4 +1,4 @@
-name: 3.17 Missing share data
+name: 03.17 Missing share data
 on: push
 jobs:
   share:

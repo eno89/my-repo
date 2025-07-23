@@ -1,4 +1,4 @@
-name: 4.9 Concurrency
+name: 04.09 Concurrency
 on: push
 concurrency: ${{ github.workflow }} # Concurrencyグループへワークフロー名を指定
 jobs:

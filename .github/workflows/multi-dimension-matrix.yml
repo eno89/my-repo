@@ -1,4 +1,4 @@
-name: 5.11 Multi-dimension matrix
+name: 05.11 Multi-dimension matrix
 on: push
 jobs:
   print:
